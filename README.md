@@ -13,4 +13,4 @@ A nossa rede social conta com uma área de tweet onde o usuário pode postar, cu
 
 Desenvolvedoras [Carina](https://github.com/karina1602), [Karina](https://github.com/KarinaFS), [karine](https://github.com/KarineFrontelli), [Nayara](https://github.com/NayaraFugii), [Tânagra](https://github.com/TanagraAndria), [Thais](https://github.com/ThWember).
 
-![Alt text](http://gph.is/YBg1tu)
+![Alt text](https://media.giphy.com/media/xePjldyeuU7v2/giphy.gif)
